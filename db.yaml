@@ -1,0 +1,6 @@
+macs:
+  blacklist: []
+  greylist:
+  - 00:00:00:0D:5A:F5
+  whitelist:
+  - 00:00:00:6F:4F:4A
